@@ -38,4 +38,22 @@ Currently, I do not have any recent blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
-{"facebook":"https://facebook.com/abdulahad0","instagram":"https://instagram.com/hafiz.a.ahad"}
+<p align="left">
+  <a href="https://facebook.com/abdulahad0" target="_blank" rel="noopener">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg"
+      alt="Facebook"
+      width="32"
+      height="32"
+    />
+  </a>
+  <a href="https://instagram.com/hafiz.a.ahad" target="_blank" rel="noopener">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg"
+      alt="Instagram"
+      width="32"
+      height="32"
+    />
+  </a>
+</p>
+
