@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Hafiz Abdul Ahad, a passionate developer who loves to code and create impactful projects. Let's connect and explore the world of technology together!
+I'm **Hafiz Abdul Ahad**, a passionate developer who loves to code and create impactful projects. Let's connect and explore the world of technology together!
 
 ## About Me
 
